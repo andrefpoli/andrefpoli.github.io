@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.dynamic-hedge.com.br/sitemap.xml
