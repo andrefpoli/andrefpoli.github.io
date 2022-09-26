@@ -1,28 +1,33 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo"]
-author = "Hugo Authors"
+description = "Dynamic-Hedge"
+date = "2022-09-25"
+aliases = ["about-us", "about-blog"]
+author = "Andre Ferreira"
 reward = false
 postDate = false
 readingTime = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+O conteúdo deste site é destinado aos participantes/entusiastas do Mercado Financeiro, onde buscarei compartilhar estudos e análises nos mais diversos tópicos, tais como:
 
-Hugo makes use of a variety of open source projects including:
+  * Portfolio Management;
+  * Riscos;
+  * Renda Fixa;
+  * Derivativos;
+  * Equities;
+  
+Os tópicos e simulações expostos aqui utilizarão majoritariamente do uso de linguagem de programação (R e Python) a fim de introduzir e engajar o leitor no uso de uma abordagem mais moderna e, em sua maioria, sob uma ótica quantitativa.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Disclaimer:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Este conteúdo não é recomendação de investimento e não deve ser compreendido dessa forma. Todo o conteúdo e/ou análise é mera opinião pessoal do autor e não reflete indicação ou orientação para compra de qualquer ativo financeiro em específico. Ganhos passados não são garantia de rentabilidade futura. As análises presentes no conteúdo foram desenvolvidas de maneira independente, não havendo pagamento ou promessa de pagamento de nenhuma instituição para a publicidade das informações aqui contidas. O autor, no momento da publicação do conteúdo, tem ou poderá ter ativos mencionados no conteúdo.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Este site foi feito a partir do Template do Hugo, cuja interface é escrita em Go. Hugo é um gerador open-source de sites estáticos disponível em [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE). O mesmo suporta, TOML,YAML, arquivos JSON e Markdown.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Entenda melhor e/ou contribua em [GitHub](https://github.com/gohugoio)
+
+Os créditos para a elaboração desse template deve-se ao [Razon Yang](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
+
+

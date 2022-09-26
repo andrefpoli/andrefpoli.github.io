@@ -15,9 +15,9 @@ keywords: Hugo, Bootstrap, Blog Theme
 
 # logo: images/logo.png # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
-brand: HBS
+brand: DYH
 
-palette: purple # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette: green # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # Available palettes. Default to ALL. Empty array means disable.
 # palettes:
 #  - blue
@@ -130,21 +130,21 @@ analytics:
 # Site verification
 siteVerification:
   google: 
-  bing: 
-  baidu: 
-  baiduUnion:  # Baidu Union
-  so: 
-  sogou: 
-  shenma: 
+  #bing: 
+  #baidu: 
+  #baiduUnion:  # Baidu Union
+  #so: 
+  #sogou: 
+  #shenma: 
 
 creativeCommons:
-  # by: true # Credit must be given to you, the creator.
+   by: true # Credit must be given to you, the creator.
   # nc: true # Only noncommercial use of your work is permitted.
   # nd: true # No derivatives or adaptations of your work are permitted.
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
+  repo: andrefpoli/andrefpoli.github.io # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
   label: comment
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -186,8 +186,8 @@ search:
   # debug: true
 
 reward:
-  alipay: images/reward/alipay.png
-  wechat: images/reward/wechat.png
+  #alipay: images/reward/alipay.png
+  #wechat: images/reward/wechat.png
   #paypal: images/reward/paypal.png
   #patreon: images/reward/patreon.png
   #liberapay: images/reward/liberapay.png
@@ -208,7 +208,7 @@ fontSize:
 pwa:
   manifest:
     # name:  # Default to site title.
-    short_name: HBS
+    short_name: DYH
     # display: fullscreen # Default to standalone.
     # description:  # Default to site description.
     # theme_color: 
@@ -230,16 +230,17 @@ contact:
     # siteKey: ""
 
 repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+  url: https://https://github.com/andrefpoli/andrefpoli.github.io
   branch: main
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
 
 topAppBar:
   social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+    github: andrefpoli
+    #patreon: razonyang
+    #paypal: razonyang
+    # Colocar medium/linkedin?
 
 #docs:
   # nav:
